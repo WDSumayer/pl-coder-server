@@ -1,0 +1,74 @@
+[
+    {
+        "id": "01",
+        "name": "Python",
+        "description": "If you want to be a successfull programmer in computer technology. This course will be more and more effective for you. We provide you lifetime support and try to teach with our best. Our highly skilled teachers teach you and help you to learn programming language. You can make large application and maintain those.",
+        "servies":["Effective videos", "24 hours support", "Live projects", "Certificate"],
+        "img": "https://media.istockphoto.com/photos/top-view-of-laptop-with-text-python-picture-id1354397311?k=20&m=1354397311&s=612x612&w=0&h=oJj9ra0rCZ2K1oJ0SYovRfKjULNGmJmItNQ2yXqbG64=",
+        "price": "6000",
+        "videos": "701",
+        "quizes": "300",
+        "duration":"6"
+
+    },
+    {
+        "id": "02",
+        "name": "Java",
+        "description": "If you want to be a successfull programmer in computer technology. This course will be more and more effective for you. We provide you lifetime support and try to teach with our best. Our highly skilled teachers teach you and help you to learn programming language. You can make large application and maintain those.",
+        "servies":["Effective videos", "24 hours support", "Live projects", "Certificate"],
+        "img": "https://media.istockphoto.com/photos/top-view-of-laptop-with-text-java-picture-id1370941235?k=20&m=1370941235&s=612x612&w=0&h=KvGUDhVdMs2G2SMq7qq5P0GVIzGD5gAd1v-IkFLIyIY=",
+        "price": "6000",
+        "videos": "702",
+        "quizes": "280",
+        "duration":"6"
+
+    },
+    {
+        "id": "03",
+        "name": "C++",
+        "description": "If you want to be a successfull programmer in computer technology. This course will be more and more effective for you. We provide you lifetime support and try to teach with our best. Our highly skilled teachers teach you and help you to learn programming language. You can make large application and maintain those.",
+        "servies":["Effective videos", "24 hours support", "Live projects", "Certificate"],
+        "img": "https://media.istockphoto.com/photos/programming-language-picture-id1057146400?k=20&m=1057146400&s=612x612&w=0&h=00M2lSxxDxE1NFtKwDYs-59l5Ec9nPVP0IKvtJtGQAc=",
+        "price": "6000",
+        "videos": "703",
+        "quizes": "295",
+        "duration":"6"
+
+    },
+    {
+        "id": "04",
+        "name": "C#",
+        "description": "If you want to be a successfull programmer in computer technology. This course will be more and more effective for you. We provide you lifetime support and try to teach with our best. Our highly skilled teachers teach you and help you to learn programming language. You can make large application and maintain those.",
+        "servies":["Effective videos", "24 hours support", "Live projects", "Certificate"],
+        "img": "https://media.istockphoto.com/photos/background-picture-id494343308?b=1&k=20&m=494343308&s=170667a&w=0&h=MnHxgKyOvAbKQ4IOqRFUcJliypZFvPyF8xA_q6tKv4Q=",
+        "price": "6000",
+        "videos": "704",
+        "quizes": "315",
+        "duration":"6"
+
+    },
+    {
+        "id": "05",
+        "name": "PHP",
+        "description": "If you want to be a successfull programmer in computer technology. This course will be more and more effective for you. We provide you lifetime support and try to teach with our best. Our highly skilled teachers teach you and help you to learn programming language. You can make large application and maintain those.",
+        "servies":["Effective videos", "24 hours support", "Live projects", "Certificate"],
+        "img": "https://media.istockphoto.com/photos/-picture-id483261793?k=20&m=483261793&s=612x612&w=0&h=Eyb0QN1IUoeqHEIgr9iaD_GHC9D4CBhbYwlBPR7dTOw=",
+        "price": "6000",
+        "videos": "705",
+        "quizes": "305",
+        "duration":"6"
+
+    },
+    {
+        "id": "06",
+        "name": "Swift",
+        "description": "If you want to be a successfull programmer in computer technology. This course will be more and more effective for you. We provide you lifetime support and try to teach with our best. Our highly skilled teachers teach you and help you to learn programming language. You can make large application and maintain those.",
+        "servies":["Effective videos", "24 hours support", "Live projects", "Certificate"],
+        "img": "https://media.istockphoto.com/photos/swift-programming-language-picture-id1156510840?k=20&m=1156510840&s=612x612&w=0&h=SEhuYnEze9ahlb0Do7jT9CNcJqtv7U7TeHZkU3eg4lY=",
+        "price": "6000",
+        "videos": "706",
+        "quizes": "310",
+        "duration":"6"
+
+    }
+]
